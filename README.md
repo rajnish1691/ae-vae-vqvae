@@ -17,4 +17,4 @@ vq-vae$ conda install -y scipy opencv matplotlib six
 ## Notebook
 
 See [ae-vae-vqvae.ipynb]
-https://github.com/rajnish1691/ae-vae-vqvae/blob/master/ae-vae-vqvae.ipynb
+https://github.com/rajnish1691/ae-vae-vqvae/blob/main/ae-vae-vqvae.ipynb
