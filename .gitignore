@@ -43,4 +43,3 @@ env.bak/
 venv.bak/
 .mypy_cache/
 data/
-output/
