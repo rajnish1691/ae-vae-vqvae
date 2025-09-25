@@ -10,8 +10,9 @@ PyTorch implementation of:
 ```
 base$ conda create -n ae-vae-vqvae python=3.11.9
 base$ conda activate ae-vae-vqvae
-vq-vae$ conda install -y pytorch torchvision -c pytorch
-vq-vae$ conda install -y scipy opencv matplotlib six
+ae-vae-vqvae$ conda install -y pytorch torchvision cpuonly -c pytorch
+ae-vae-vqvae$ pip install -q "numpy<2.0"
+ae-vae-vqvae$ conda install -y scipy opencv matplotlib six
 ```
 
 ## Notebook
